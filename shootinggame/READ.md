@@ -17,7 +17,7 @@ Control a player to shoot down falling enemies while avoiding letting them reach
 
 ## 🖼️ Demo
 
-(SFMLDemo.gif)
+![Game Demo](SFMLDemo.gif)
 ---
 
 ## ⚙️ Requirements
