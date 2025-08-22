@@ -17,7 +17,8 @@ Control a player to shoot down falling enemies while avoiding letting them reach
 
 ## 🖼️ Demo
 
-![Game Demo](SFMLSETUP2025-08-2222-06-18-Trim-ezgif.com-video-to-gif-converter.gif)
+![Game Demo](SFMLDemo.gif)
+
 
 ---
 
